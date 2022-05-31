@@ -1,7 +1,7 @@
 # Кодекс FPV Братана
 ###### Кодекс является рекомендательным
 
-![main](/img/main.png)
+![main](https://github.com/k4m454k/fpv_bro_codex/raw/main/img/main.png)
 
 ## Статьи
 
