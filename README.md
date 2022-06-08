@@ -1,5 +1,5 @@
 # Кодекс FPV Братана
-###### v1.2
+###### v1.2 [github](https://github.com/k4m454k/fpv_bro_codex)
 ###### Кодекс является рекомендательным
 
 ![main](https://github.com/k4m454k/fpv_bro_codex/raw/main/img/main.png)
