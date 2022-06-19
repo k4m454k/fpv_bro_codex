@@ -1,0 +1,20 @@
+theme: minima
+permalink: pretty
+gems:
+  - jekyll-seo-tag
+title: Кодекс FPV Братана
+description: Единый кодекс FPV братанов на поле
+image: /img/main.png
+logo: /img/logo.png
+url: https://fpvcodex.ru
+lang: ru
+facebook:
+  description: Единый кодекс FPV братанов на поле
+  image: /img/main.png
+twitter:
+  image: /img/main.png
+  card: summary
+  description: Единый кодекс FPV братанов на поле
+markdown: kramdown
+kramdown:
+  transliterated_header_ids: true
