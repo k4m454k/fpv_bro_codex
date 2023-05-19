@@ -1,4 +1,4 @@
-###### v1.4 [github](https://github.com/k4m454k/fpv_bro_codex)
+###### v1.5 [github](https://github.com/k4m454k/fpv_bro_codex)
 ###### Кодекс является рекомендательным
 
 #### Дисклеймер
